@@ -123,9 +123,9 @@ Shows how AI impacts Academic Performance
 
 ---
 
-### 2. AI Impact On GPA
+### 2. AI Impact On GPA (Interactive Graph)
 
-![AI Impact on GPA(Interactive Graph)](Images/AI_Impact_on_GPA.png)
+![AI Impact on GPA](Images/AI_Impact_on_GPA.png)
 
 ---
 
