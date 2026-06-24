@@ -119,7 +119,7 @@ Shows how AI impacts Academic Performance
 
 ### Academic Performance Shifts
 
-![Academic Performance Shifts](Academic_Performance.png)
+![Academic Performance Shifts](Images/Academic_Performance.png)
 
 ---
 
