@@ -113,13 +113,13 @@ RandomForestClassifier(
 
 ## 📈 Key Findings
 
-### 1. AI Usage Is the Strongest Burnout Predictor
+### 1. Distribution of Academic Performance Shifts
 
-Weekly_GenAI_Hours emerged as the most influential predictor of burnout risk.
+Shows how AI impacts Academic Performance
 
-### Feature Importance Visualization
+### Academic Performance Shifts
 
-![Feature Importance](Images/Predictive_Feature_for_Student_Burnout.png)
+![Academic Performance Shifts](Academic_Performance.png)
 
 ---
 
