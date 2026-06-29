@@ -169,7 +169,7 @@ Shows how AI impacts Academic Performance
 
 ---
 
-## 👺 Project Outcome
+##  Project Outcome
 
 This project demonstrates an end-to-end data science workflow involving:
 
